@@ -1,5 +1,13 @@
 Revision history for App-CompleteCLIs
 
+0.02    2014-12-31 (PERLANCAR)
+
+	- Add workaround for Complete::Util scripts which didn't work
+	  before with error 'ERROR 500: No metadata for ...'.
+
+	- Add CLIs from Complete::{Dist,Dist::Zilla,Pod::Weaver}.
+
+
 0.01    2014-12-27 (PERLANCAR)
 
         - First release.
