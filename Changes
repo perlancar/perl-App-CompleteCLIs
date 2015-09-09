@@ -1,5 +1,12 @@
 Revision history for App-CompleteCLIs
 
+0.05    2015-09-09 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dist] Remove prereq: Complete because it is not directly used.
+
+
 0.04    2015-08-19 (PERLANCAR)
 
 	- No functional changes.
