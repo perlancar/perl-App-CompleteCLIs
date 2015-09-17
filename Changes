@@ -1,5 +1,14 @@
 Revision history for App-CompleteCLIs
 
+0.06    2015-09-18 (PERLANCAR)
+
+        - Adjust to Complete::Util 0.36 being split to
+          Complete::{Env,File,Program}.
+
+        - Add complete-{float,int} from Complete::Number & complete-tz from
+          Complete::TZ/
+
+
 0.05    2015-09-09 (PERLANCAR)
 
 	- No functional changes.
