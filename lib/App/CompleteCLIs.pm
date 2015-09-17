@@ -13,6 +13,14 @@ use warnings;
 =head1 SYNOPSIS
 
 
+=head1 DESCRIPTION
+
+This distribution comes with the following CLI's from the various C<Complete::*>
+modules:
+
+# INSERT_EXECS_LIST
+
+
 =head1 SEE ALSO
 
 L<Complete>
