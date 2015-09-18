@@ -16,7 +16,8 @@ use warnings;
 =head1 DESCRIPTION
 
 This distribution comes with the following CLI's from the various C<Complete::*>
-modules:
+modules. They are meant for convenient testing of the various C<complete_*>
+functions on the command-line.
 
 # INSERT_EXECS_LIST
 
