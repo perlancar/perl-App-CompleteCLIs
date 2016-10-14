@@ -1,5 +1,10 @@
 Revision history for App-CompleteCLIs
 
+0.08    2016-10-15 (PERLANCAR)
+
+	- Add utility: complete-manpage-section.
+
+
 0.07    2016-10-15 (PERLANCAR)
 
         - Add utility: complete-locale.
