@@ -1,5 +1,10 @@
 Revision history for App-CompleteCLIs
 
+0.07    2016-10-15 (PERLANCAR)
+
+        - Add utility: complete-locale.
+
+
 0.06    2015-09-18 (PERLANCAR)
 
         - Adjust to Complete::Util 0.36 being split to
