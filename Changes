@@ -1,5 +1,12 @@
 Revision history for App-CompleteCLIs
 
+0.10    2016-10-19 (PERLANCAR)
+
+	- Add utilities: complete-perl-builtin-function,
+          complete-perl-builtin-symbol, complete-perl-version,
+          complete-known-mac, complete-env-elem, complete-path-env-elem.
+
+
 0.09    2016-10-18 (PERLANCAR)
 
 	- Add utility: complete-known-host.
