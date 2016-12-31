@@ -1,5 +1,11 @@
 Revision history for App-CompleteCLIs
 
+0.11    2016-12-31 (PERLANCAR)
+
+	- Add utilities: complete-regexp-pattern-{module,pattern},
+          complete-service-{name,port}.
+
+
 0.10    2016-10-19 (PERLANCAR)
 
 	- Add utilities: complete-perl-builtin-function,
