@@ -1,3 +1,8 @@
+0.140   2019-07-18  Released-By: PERLANCAR; Urgency: medium
+
+	- Add CLI: complete-country-code.
+
+
 0.13    2017-08-18  Released-By: PERLANCAR
 
 	- Add utility: complete-ppr-subpattern.
