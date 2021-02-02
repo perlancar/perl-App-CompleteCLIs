@@ -1,3 +1,8 @@
+0.149   2021-02-02  Released-By: PERLANCAR; Urgency: medium
+
+	- [ux] Enable logging for CLIs.
+
+
 0.148   2021-01-18  Released-By: PERLANCAR; Urgency: medium
 
 	- Add CLI: complete-idx-listed-stock-code.
