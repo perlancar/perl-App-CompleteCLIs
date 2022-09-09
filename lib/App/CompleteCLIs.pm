@@ -1,14 +1,16 @@
 package App::CompleteCLIs;
 
-# DATE
-# VERSION
-
 use 5.010001;
 use strict;
 use warnings;
 
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
+
 1;
-# ABSTRACT: CLI wrappers for complete_*() functions
+# ABSTRACT: CLI front-end for the complete_*() functions from Complete::* modules
 
 =head1 SYNOPSIS
 
